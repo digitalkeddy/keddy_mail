@@ -1,7 +1,7 @@
 ###
 # Base URL (set this to your Render URL or localhost)
 
-# @BASE_URL = https://mail-api-zv54.onrender.com
+# @BASE_URL = https://mail-api-ashen.vercel.app
 @BASE_URL = http://localhost:5000
 
 ###
@@ -17,7 +17,7 @@ Content-Type: application/json
 
 {
   "name": "Test User",
-  "email": "aayush82830@gmail.com",
+  "email": "ar0671362@gmail.com",
   "phone": "9999999999",
   "service": "lalit",
   "message": "Just testing."
