@@ -25,7 +25,7 @@ mongoose.connect(process.env.MONGO_URI)
   .then(() => console.log("MongoDB Connected"))
   .catch(err => console.log(err));
 
-app.use("/api/contact", contactRoute);
+app.use("/api/quote", contactRoute);
 
 app.get("/", (req, res) => {
   res.send("Backend Running...");
