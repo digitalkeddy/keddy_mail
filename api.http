@@ -3,6 +3,8 @@
 
 # @BASE_URL = https://mail-api-ashen.vercel.app
 @BASE_URL = http://localhost:5000
+#  https://moccasin-cassowary-659920.hostingersite.com
+# 
 
 ###
 # Health / root check
